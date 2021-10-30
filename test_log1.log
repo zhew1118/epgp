@@ -1,0 +1,218 @@
+2021-10-29 04:54:31,361 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 05:09:29,525 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 05:09:29,526 logging in using static token
+2021-10-29 05:09:29,801 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 05:09:29,926 Shard ID None has connected to Gateway: ["gateway-prd-main-7qwt",{"micros":46309,"calls":["discord-sessions-blue-prd-2-141",{"micros":45565,"calls":["start_session",{"micros":32793,"calls":["api-prd-main-tb97",{"micros":29360,"calls":["get_user",{"micros":4657},"add_authorized_ip",{"micros":3557},"get_guilds",{"micros":3765},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12226,"calls":[]}]}]}] (Session ID: c955a5337e8fbbecacc22ca600474eba).
+2021-10-29 05:13:36,523 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 05:13:36,526 logging in using static token
+2021-10-29 05:13:36,799 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 05:13:36,997 Shard ID None has connected to Gateway: ["gateway-prd-main-38kr",{"micros":117690,"calls":["discord-sessions-blue-prd-2-143",{"micros":116780,"calls":["start_session",{"micros":61083,"calls":["api-prd-main-c1t5",{"micros":56393,"calls":["get_user",{"micros":14713},"add_authorized_ip",{"micros":2843},"get_guilds",{"micros":4565},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":30580,"calls":[]}]}]}] (Session ID: f0f6462a85c5410aa2816b4cf1a3d4b9).
+2021-10-29 05:14:29,062 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 05:14:53,206 用户 Piapia 已经登陆
+2021-10-29 05:31:26,858 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 05:31:26,859 logging in using static token
+2021-10-29 05:31:27,146 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 05:31:27,334 Shard ID None has connected to Gateway: ["gateway-prd-main-7052",{"micros":104688,"calls":["discord-sessions-blue-prd-2-23",{"micros":103741,"calls":["start_session",{"micros":87968,"calls":["api-prd-main-gdq7",{"micros":83685,"calls":["get_user",{"micros":5108},"add_authorized_ip",{"micros":2733},"get_guilds",{"micros":3655},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13212,"calls":[]}]}]}] (Session ID: a928369ffe6f654e882bf5a61d274733).
+2021-10-29 05:31:57,037 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 05:32:07,485 用户 Piapia 已经登陆
+2021-10-29 06:02:21,608 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:02:21,659 logging in using static token
+2021-10-29 06:02:21,970 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:02:22,289 Shard ID None has connected to Gateway: ["gateway-prd-main-58gq",{"micros":238171,"calls":["discord-sessions-blue-prd-2-32",{"micros":237347,"calls":["start_session",{"micros":207023,"calls":["api-prd-main-nrf1",{"micros":203456,"calls":["get_user",{"micros":15701},"add_authorized_ip",{"micros":32140},"get_guilds",{"micros":25851},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":11249,"calls":[]}]}]}] (Session ID: f9183f801ab091fc2dc566d454621b14).
+2021-10-29 06:03:31,551 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:03:35,406 用户 naicha 已经登陆
+2021-10-29 06:06:08,890 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:06:08,890 logging in using static token
+2021-10-29 06:06:09,176 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:06:09,329 Shard ID None has connected to Gateway: ["gateway-prd-main-x5lf",{"micros":73436,"calls":["discord-sessions-blue-prd-2-101",{"micros":72713,"calls":["start_session",{"micros":26207,"calls":["api-prd-main-jjxm",{"micros":23395,"calls":["get_user",{"micros":2225},"add_authorized_ip",{"micros":1369},"get_guilds",{"micros":3223},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 4e9e2aea2f18a61dfe108d1c969c3300).
+2021-10-29 06:06:19,920 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:06:24,341 用户 naicha 已经登陆
+2021-10-29 06:08:50,972 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:10:47,106 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:11:00,172 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:13:51,567 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:13:51,569 logging in using static token
+2021-10-29 06:13:51,876 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:13:52,048 Shard ID None has connected to Gateway: ["gateway-prd-main-1bw8",{"micros":89675,"calls":["discord-sessions-blue-prd-2-92",{"micros":88802,"calls":["start_session",{"micros":77018,"calls":["api-prd-main-rq3x",{"micros":69575,"calls":["get_user",{"micros":11465},"add_authorized_ip",{"micros":6060},"get_guilds",{"micros":12907},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":11195,"calls":[]}]}]}] (Session ID: dea27c4c0617a69eb0fcfbdfaba0f633).
+2021-10-29 06:14:07,626 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:17:42,667 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:17:42,669 logging in using static token
+2021-10-29 06:17:43,006 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:17:43,226 Shard ID None has connected to Gateway: ["gateway-prd-main-8hsl",{"micros":140440,"calls":["discord-sessions-blue-prd-2-105",{"micros":138375,"calls":["start_session",{"micros":103562,"calls":["api-prd-main-3j9m",{"micros":91372,"calls":["get_user",{"micros":14247},"add_authorized_ip",{"micros":4093},"get_guilds",{"micros":6675},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16369,"calls":[]}]}]}] (Session ID: 6b17e8b348dbf8eb778344824dece8b5).
+2021-10-29 06:17:54,351 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:18:46,844 用户 meimei 已经登陆
+2021-10-29 06:21:22,674 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:21:35,409 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:21:45,894 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:24:04,427 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:25:15,670 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:25:15,674 logging in using static token
+2021-10-29 06:25:15,981 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:25:16,205 Shard ID None has connected to Gateway: ["gateway-prd-main-x9p8",{"micros":141324,"calls":["discord-sessions-blue-prd-2-164",{"micros":140614,"calls":["start_session",{"micros":70036,"calls":["api-prd-main-v2n8",{"micros":66775,"calls":["get_user",{"micros":2264},"add_authorized_ip",{"micros":4696},"get_guilds",{"micros":14316},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":42293,"calls":[]}]}]}] (Session ID: 698ae563e6891dfe618fa2202691f5f5).
+2021-10-29 06:25:30,237 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:26:34,863 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:26:34,864 logging in using static token
+2021-10-29 06:26:35,153 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:26:35,346 Shard ID None has connected to Gateway: ["gateway-prd-main-fdh3",{"micros":114183,"calls":["discord-sessions-blue-prd-2-25",{"micros":113093,"calls":["start_session",{"micros":88089,"calls":["api-prd-main-lxft",{"micros":84602,"calls":["get_user",{"micros":7460},"add_authorized_ip",{"micros":1711},"get_guilds",{"micros":6881},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 28d6bd46ff4faae3ea955392f7b41e4f).
+2021-10-29 06:26:44,102 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:28:13,861 用户 mama 已经登陆
+2021-10-29 06:29:52,787 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:29:52,788 logging in using static token
+2021-10-29 06:29:53,056 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:29:53,205 Shard ID None has connected to Gateway: ["gateway-prd-main-d39h",{"micros":67797,"calls":["discord-sessions-blue-prd-2-129",{"micros":67104,"calls":["start_session",{"micros":34570,"calls":["api-prd-main-9dhg",{"micros":31395,"calls":["get_user",{"micros":2087},"add_authorized_ip",{"micros":1388},"get_guilds",{"micros":3660},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":11,"calls":[]},"presence_connect",{"micros":11754,"calls":[]}]}]}] (Session ID: e7247757d26074ae9a331a0d74886470).
+2021-10-29 06:30:01,869 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:30:05,414 用户 mama 已经登陆
+2021-10-29 06:38:32,846 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:38:32,847 logging in using static token
+2021-10-29 06:38:33,186 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:38:33,379 Shard ID None has connected to Gateway: ["gateway-prd-main-6l0g",{"micros":111315,"calls":["discord-sessions-blue-prd-2-151",{"micros":110497,"calls":["start_session",{"micros":58428,"calls":["api-prd-main-rtwg",{"micros":55247,"calls":["get_user",{"micros":4123},"add_authorized_ip",{"micros":2603},"get_guilds",{"micros":5581},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":51519,"calls":[]}]}]}] (Session ID: b3e56d8b0b4cfd65ebb6521942003fe0).
+2021-10-29 06:38:45,061 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:38:48,206 用户 mama 已经登陆
+2021-10-29 06:40:18,735 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 06:40:18,739 logging in using static token
+2021-10-29 06:40:19,059 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 06:40:19,177 Shard ID None has connected to Gateway: ["gateway-prd-main-sdbx",{"micros":36140,"calls":["discord-sessions-blue-prd-2-72",{"micros":35265,"calls":["start_session",{"micros":28634,"calls":["api-prd-main-4rz6",{"micros":24993,"calls":["get_user",{"micros":3070},"add_authorized_ip",{"micros":1365},"get_guilds",{"micros":4151},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5880,"calls":[]}]}]}] (Session ID: 84e7df71d25f185009be43f3439ccb2e).
+2021-10-29 06:40:27,781 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 06:40:32,826 用户 mama 已经登陆
+2021-10-29 20:58:38,077 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 20:58:38,078 logging in using static token
+2021-10-29 20:58:38,399 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 20:58:38,639 Shard ID None has connected to Gateway: ["gateway-prd-main-js98",{"micros":161636,"calls":["discord-sessions-blue-prd-2-156",{"micros":160840,"calls":["start_session",{"micros":126306,"calls":["api-prd-main-v288",{"micros":108801,"calls":["get_user",{"micros":12392},"add_authorized_ip",{"micros":4572},"get_guilds",{"micros":14904},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":6533,"calls":[]}]}]}] (Session ID: 6c032c1584e2ab8ce56f9138a0b4f3ca).
+2021-10-29 20:58:57,782 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 20:59:01,648 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 21:13:49,743 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:13:49,744 logging in using static token
+2021-10-29 21:13:50,026 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:13:50,234 Shard ID None has connected to Gateway: ["gateway-prd-main-z7w9",{"micros":105703,"calls":["discord-sessions-blue-prd-2-35",{"micros":104682,"calls":["start_session",{"micros":100669,"calls":["api-prd-main-275w",{"micros":95240,"calls":["get_user",{"micros":10535},"add_authorized_ip",{"micros":7209},"get_guilds",{"micros":14556},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1441,"calls":[]}]}]}] (Session ID: 1a0c839660d6314d58c114fe673d6109).
+2021-10-29 21:14:33,235 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:20:22,678 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:20:22,679 logging in using static token
+2021-10-29 21:20:23,036 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:20:23,161 Shard ID None has connected to Gateway: ["gateway-prd-main-fdh3",{"micros":44993,"calls":["discord-sessions-blue-prd-2-43",{"micros":42574,"calls":["start_session",{"micros":32381,"calls":["api-prd-main-ll5c",{"micros":29349,"calls":["get_user",{"micros":5215},"add_authorized_ip",{"micros":1283},"get_guilds",{"micros":3048},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7110,"calls":[]}]}]}] (Session ID: 862b8b573840b66b6a068cb154142130).
+2021-10-29 21:22:32,482 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:23:09,566 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:23:09,567 logging in using static token
+2021-10-29 21:23:09,846 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:23:10,007 Shard ID None has connected to Gateway: ["gateway-prd-main-8g65",{"micros":78013,"calls":["discord-sessions-blue-prd-2-13",{"micros":76571,"calls":["start_session",{"micros":47697,"calls":["api-prd-main-xqtz",{"micros":44497,"calls":["get_user",{"micros":2833},"add_authorized_ip",{"micros":5298},"get_guilds",{"micros":6674},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":18413,"calls":[]}]}]}] (Session ID: 6ac458759bad09af4bb0a5561b930f7d).
+2021-10-29 21:23:15,400 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:25:09,662 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:25:09,663 logging in using static token
+2021-10-29 21:25:09,933 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:25:10,056 Shard ID None has connected to Gateway: ["gateway-prd-main-b5mb",{"micros":39916,"calls":["discord-sessions-blue-prd-2-19",{"micros":39001,"calls":["start_session",{"micros":31135,"calls":["api-prd-main-2jq7",{"micros":26996,"calls":["get_user",{"micros":2624},"add_authorized_ip",{"micros":1382},"get_guilds",{"micros":3971},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4500,"calls":[]}]}]}] (Session ID: 8bc91fc6259440d5cb0cb2f7a5a93700).
+2021-10-29 21:25:17,647 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:25:27,461 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 21:33:39,578 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:33:39,580 logging in using static token
+2021-10-29 21:33:39,900 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:33:40,042 Shard ID None has connected to Gateway: ["gateway-prd-main-409b",{"micros":62282,"calls":["discord-sessions-blue-prd-2-35",{"micros":61404,"calls":["start_session",{"micros":51896,"calls":["api-prd-main-ll5c",{"micros":45506,"calls":["get_user",{"micros":3232},"add_authorized_ip",{"micros":4339},"get_guilds",{"micros":5405},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8798,"calls":[]}]}]}] (Session ID: 054fd3ef8a35aafd0b24708a95dc21e1).
+2021-10-29 21:39:46,993 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:39:51,470 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 21:46:34,276 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:46:34,278 logging in using static token
+2021-10-29 21:46:34,563 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:46:34,715 Shard ID None has connected to Gateway: ["gateway-prd-main-5hzc",{"micros":72682,"calls":["discord-sessions-blue-prd-2-60",{"micros":71777,"calls":["start_session",{"micros":32503,"calls":["api-prd-main-kg1r",{"micros":28733,"calls":["get_user",{"micros":3163},"add_authorized_ip",{"micros":1468},"get_guilds",{"micros":4221},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 49b6c906cb43bd5881b4ec298cf629e7).
+2021-10-29 21:51:44,109 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:51:54,625 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 21:52:48,868 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 21:52:48,869 logging in using static token
+2021-10-29 21:52:49,145 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 21:52:49,281 Shard ID None has connected to Gateway: ["gateway-prd-main-z7w9",{"micros":57414,"calls":["discord-sessions-blue-prd-2-66",{"micros":54345,"calls":["start_session",{"micros":35933,"calls":["api-prd-main-mm2d",{"micros":32112,"calls":["get_user",{"micros":6157},"add_authorized_ip",{"micros":1709},"get_guilds",{"micros":3274},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: a3c2161aa74280c539034e6452940284).
+2021-10-29 21:52:55,217 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 21:52:59,761 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 22:00:16,284 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:00:16,285 logging in using static token
+2021-10-29 22:00:16,588 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:00:16,744 Shard ID None has connected to Gateway: ["gateway-prd-main-b2nk",{"micros":75636,"calls":["discord-sessions-blue-prd-2-81",{"micros":74813,"calls":["start_session",{"micros":35459,"calls":["api-prd-main-vcnw",{"micros":31166,"calls":["get_user",{"micros":3860},"add_authorized_ip",{"micros":1424},"get_guilds",{"micros":4365},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14088,"calls":[]}]}]}] (Session ID: f9c35411c3520564c95bba68955fa6f0).
+2021-10-29 22:02:02,412 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 22:02:05,840 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 22:03:02,470 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:03:02,471 logging in using static token
+2021-10-29 22:03:02,744 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:03:02,881 Shard ID None has connected to Gateway: ["gateway-prd-main-6mgz",{"micros":54463,"calls":["discord-sessions-blue-prd-2-72",{"micros":53605,"calls":["start_session",{"micros":36006,"calls":["api-prd-main-rzm6",{"micros":31903,"calls":["get_user",{"micros":4048},"add_authorized_ip",{"micros":1699},"get_guilds",{"micros":6186},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11781,"calls":[]}]}]}] (Session ID: a48bd28284d0f58847c1e21510501f4f).
+2021-10-29 22:03:09,090 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 22:03:13,694 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 22:10:15,265 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:10:15,266 logging in using static token
+2021-10-29 22:10:15,573 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:10:15,733 Shard ID None has connected to Gateway: ["gateway-prd-main-8f6s",{"micros":75627,"calls":["discord-sessions-blue-prd-2-20",{"micros":74594,"calls":["start_session",{"micros":57420,"calls":["api-prd-main-l4jh",{"micros":53197,"calls":["get_user",{"micros":6729},"add_authorized_ip",{"micros":3075},"get_guilds",{"micros":8722},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10572,"calls":[]}]}]}] (Session ID: e0e7acd2eab50f4de0537ce4dd253656).
+2021-10-29 22:10:20,833 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 22:10:24,191 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 22:10:56,771 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:10:56,772 logging in using static token
+2021-10-29 22:10:57,134 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:10:57,329 Shard ID None has connected to Gateway: ["gateway-prd-main-jrrv",{"micros":115341,"calls":["discord-sessions-blue-prd-2-2",{"micros":114410,"calls":["start_session",{"micros":67345,"calls":["api-prd-main-mjxv",{"micros":63300,"calls":["get_user",{"micros":3154},"add_authorized_ip",{"micros":7128},"get_guilds",{"micros":17954},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":35984,"calls":[]}]}]}] (Session ID: 2ac26e989057a1dee172d86df58aab00).
+2021-10-29 22:11:02,689 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 22:11:05,940 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 22:23:14,990 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:23:14,992 logging in using static token
+2021-10-29 22:23:15,290 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:23:15,472 Shard ID None has connected to Gateway: ["gateway-prd-main-jzx3",{"micros":97568,"calls":["discord-sessions-blue-prd-2-7",{"micros":96731,"calls":["start_session",{"micros":68810,"calls":["api-prd-main-fd1d",{"micros":65860,"calls":["get_user",{"micros":2227},"add_authorized_ip",{"micros":1153},"get_guilds",{"micros":41119},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10813,"calls":[]}]}]}] (Session ID: 28e00bea5eaaf34e00be75aa69ff64cb).
+2021-10-29 22:24:03,903 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:24:03,905 logging in using static token
+2021-10-29 22:24:04,271 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:24:04,398 Shard ID None has connected to Gateway: ["gateway-prd-main-tnpk",{"micros":48257,"calls":["discord-sessions-blue-prd-2-86",{"micros":47088,"calls":["start_session",{"micros":34556,"calls":["api-prd-main-t7kd",{"micros":30194,"calls":["get_user",{"micros":3412},"add_authorized_ip",{"micros":1440},"get_guilds",{"micros":5349},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 4de92a13ddc77fb14387d3ab1b235e0e).
+2021-10-29 22:26:14,174 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:26:14,175 logging in using static token
+2021-10-29 22:26:14,451 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:26:14,587 Shard ID None has connected to Gateway: ["gateway-prd-main-n8lp",{"micros":50734,"calls":["discord-sessions-blue-prd-2-169",{"micros":49758,"calls":["start_session",{"micros":43661,"calls":["api-prd-main-4c0h",{"micros":39912,"calls":["get_user",{"micros":3066},"add_authorized_ip",{"micros":1826},"get_guilds",{"micros":4355},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4355,"calls":[]}]}]}] (Session ID: 1243a5529e5867dca2e87535faf954af).
+2021-10-29 22:29:09,385 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 22:29:09,391 logging in using static token
+2021-10-29 22:29:09,717 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 22:29:09,866 Shard ID None has connected to Gateway: ["gateway-prd-main-7qwt",{"micros":66604,"calls":["discord-sessions-blue-prd-2-128",{"micros":65677,"calls":["start_session",{"micros":51145,"calls":["api-prd-main-x246",{"micros":47249,"calls":["get_user",{"micros":7705},"add_authorized_ip",{"micros":2841},"get_guilds",{"micros":9213},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5314,"calls":[]}]}]}] (Session ID: 0a4fde9db67292ecb39863c58649b4d7).
+2021-10-29 22:31:15,201 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 23:50:40,689 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:50:40,691 logging in using static token
+2021-10-29 23:50:40,979 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 23:50:41,137 Shard ID None has connected to Gateway: ["gateway-prd-main-n8wf",{"micros":74552,"calls":["discord-sessions-blue-prd-2-74",{"micros":73740,"calls":["start_session",{"micros":38558,"calls":["api-prd-main-cf6f",{"micros":34217,"calls":["get_user",{"micros":5293},"add_authorized_ip",{"micros":1276},"get_guilds",{"micros":5254},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: d9c7f5af10846b6413ead8f0dd69220a).
+2021-10-29 23:53:12,496 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:53:27,902 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:55:38,296 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:55:38,297 logging in using static token
+2021-10-29 23:55:38,622 Shard ID None has sent the IDENTIFY payload.
+2021-10-29 23:55:38,764 Shard ID None has connected to Gateway: ["gateway-prd-main-3518",{"micros":61361,"calls":["discord-sessions-blue-prd-2-151",{"micros":52954,"calls":["start_session",{"micros":28124,"calls":["api-prd-main-swrf",{"micros":23741,"calls":["get_user",{"micros":3744},"add_authorized_ip",{"micros":2328},"get_guilds",{"micros":2840},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":19443,"calls":[]}]}]}] (Session ID: 28a1b170809e4a942c5a83688857505a).
+2021-10-29 23:56:01,077 Angulardart/Ditt#8629开始本次Raid
+2021-10-29 23:56:33,890 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-29 23:58:54,880 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:59:36,958 PyNaCl is not installed, voice will NOT be supported
+2021-10-29 23:59:53,476 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:00:04,776 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:00:35,355 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:00:35,357 logging in using static token
+2021-10-30 00:00:35,676 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 00:00:35,862 Shard ID None has connected to Gateway: ["gateway-prd-main-5ztz",{"micros":107049,"calls":["discord-sessions-blue-prd-2-8",{"micros":105913,"calls":["start_session",{"micros":70227,"calls":["api-prd-main-0md6",{"micros":66537,"calls":["get_user",{"micros":11645},"add_authorized_ip",{"micros":3593},"get_guilds",{"micros":9552},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":31294,"calls":[]}]}]}] (Session ID: 483838d4a3b9dd045fdd9dc9b282e0cb).
+2021-10-30 00:00:41,036 Angulardart/Ditt#8629开始本次Raid
+2021-10-30 00:00:46,753 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-30 00:02:17,356 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:02:17,357 logging in using static token
+2021-10-30 00:02:17,729 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 00:02:17,875 Shard ID None has connected to Gateway: ["gateway-prd-main-dj54",{"micros":65931,"calls":["discord-sessions-blue-prd-2-42",{"micros":64803,"calls":["start_session",{"micros":44654,"calls":["api-prd-main-swrf",{"micros":40721,"calls":["get_user",{"micros":2604},"add_authorized_ip",{"micros":3189},"get_guilds",{"micros":4017},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4404,"calls":[]}]}]}] (Session ID: 552586443ec0f8725c9f986cedbf72fe).
+2021-10-30 00:02:25,887 Angulardart/Ditt#8629开始本次Raid
+2021-10-30 00:02:29,433 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-30 00:07:41,357 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:07:41,358 logging in using static token
+2021-10-30 00:07:41,636 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 00:07:41,789 Shard ID None has connected to Gateway: ["gateway-prd-main-ls7q",{"micros":72710,"calls":["discord-sessions-blue-prd-2-156",{"micros":71792,"calls":["start_session",{"micros":33142,"calls":["api-prd-main-j9bl",{"micros":29465,"calls":["get_user",{"micros":2884},"add_authorized_ip",{"micros":1326},"get_guilds",{"micros":5286},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":35094,"calls":[]}]}]}] (Session ID: a5b950e4b77da883c07c790b5c3ab1cd).
+2021-10-30 00:07:52,820 Angulardart/Ditt#8629开始本次Raid
+2021-10-30 00:07:56,241 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-30 00:17:16,289 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:17:22,289 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:17:50,970 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:01,995 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:09,803 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:16,390 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:22,479 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:58,597 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:18:58,598 logging in using static token
+2021-10-30 00:18:58,916 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 00:18:59,137 Shard ID None has connected to Gateway: ["gateway-prd-main-s6fh",{"micros":138433,"calls":["discord-sessions-blue-prd-2-61",{"micros":134056,"calls":["start_session",{"micros":93644,"calls":["api-prd-main-rq0m",{"micros":89648,"calls":["get_user",{"micros":13381},"add_authorized_ip",{"micros":6209},"get_guilds",{"micros":14007},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":22307,"calls":[]}]}]}] (Session ID: 47e42556a9581ceb8f74b5efd9ef93df).
+2021-10-30 00:19:53,599 Angulardart/Ditt#8629开始本次Raid
+2021-10-30 00:19:57,943 用户 mama 已经登陆, EP: 1111, GP: 33
+2021-10-30 00:22:33,956 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 00:22:33,957 logging in using static token
+2021-10-30 00:22:34,314 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 00:22:34,503 Shard ID None has connected to Gateway: ["gateway-prd-main-dbgz",{"micros":89978,"calls":["discord-sessions-blue-prd-2-97",{"micros":89066,"calls":["start_session",{"micros":63865,"calls":["api-prd-main-5pwd",{"micros":56315,"calls":["get_user",{"micros":5201},"add_authorized_ip",{"micros":3709},"get_guilds",{"micros":5301},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":4233,"calls":[]}]}]}] (Session ID: c78592eac4161f1e2bc46f841ad322d1).
+2021-10-30 00:25:29,936 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 01:30:23,891 PyNaCl is not installed, voice will NOT be supported
+2021-10-30 01:30:23,892 logging in using static token
+2021-10-30 01:30:24,117 Shard ID None has sent the IDENTIFY payload.
+2021-10-30 01:30:24,270 Shard ID None has connected to Gateway: ["gateway-prd-main-bknx",{"micros":114401,"calls":["discord-sessions-blue-prd-2-55",{"micros":113474,"calls":["start_session",{"micros":85323,"calls":["api-prd-main-0fbz",{"micros":81213,"calls":["get_user",{"micros":6113},"add_authorized_ip",{"micros":14269},"get_guilds",{"micros":4862},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":27534,"calls":[]}]}]}] (Session ID: 800d913091cfc662ad82faa0492896e8).
